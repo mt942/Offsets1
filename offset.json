@@ -1,0 +1,17 @@
+"Naira2":
+            {
+                "name" = "14";
+                "karakterp" = "clientv8.bin+1A4A330";
+                "karakterp2" = "C";
+                "entityp" = "clientv8.bin+1A2DD7C";
+                "radar" = "658";
+                "frmbotpointer" = "clientv8.bin+1ACE180";
+                "frmbotoffset" = "54";
+                "x" = "6C4";
+                "y" = "6C8";
+                "z" = "6CC";
+                "mbvid" = "7B8";
+                "isdead" = "6A0";
+                "wh" = "7C0";
+            }
+
