@@ -58,5 +58,20 @@
     "mbvid": "73C",
     "isdead": "628",
     "wh": "7C0"
+  },
+    "Laren2": {
+    "name": "10",
+    "karakterp": "metin2client.bin+4FB3A0",
+    "karakterp2": "C",
+    "entityp": "metin2client.bin+004D912C",
+    "radar": "6dc",
+    "frmbotpointer": "metin2client.bin+4FB360",
+    "frmbotoffset": "50",
+    "x": "5C4",
+    "y": "5C8",
+    "z": "5CC",
+    "mbvid": "6b0",
+    "isdead": "5a4",
+    "wh": "7C0"
   }
 }
