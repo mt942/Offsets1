@@ -73,5 +73,20 @@
     "mbvid": "6b0",
     "isdead": "5a4",
     "wh": "7C0"
+    },
+    "Merlen2": {
+    "name": "10",
+    "karakterp": "marlen2client.bin+308F44",
+    "karakterp2": "C",
+    "entityp": "marlen2client.bin+2BF750",
+    "radar": "604",
+    "frmbotpointer": "marlen2client.bin+311508",
+    "frmbotoffset": "50",
+    "x": "670",
+    "y": "674",
+    "z": "678",
+    "mbvid": "764",
+    "isdead": "64C",
+    "wh": "7C0"
   }
 }
