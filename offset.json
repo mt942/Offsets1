@@ -88,5 +88,36 @@
     "mbvid": "764",
     "isdead": "64C",
     "wh": "7C0"
+  },
+      
+    "EmekMT2": {
+    "name": "14",
+    "karakterp": "metin2client.bin+50E0B4",
+    "karakterp2": "C",
+    "entityp": "metin2client.bin+49C028",
+    "radar": "5F0",
+    "frmbotpointer": "metin2client.bin+4D1008",
+    "frmbotoffset": "60",
+    "x": "65C",
+    "y": "660",
+    "z": "664",
+    "mbvid": "74C",
+    "isdead": "638",
+    "wh": "7C0"
+  },
+    "Metin2012": {
+    "name": "14",
+    "karakterp": "temD16B.tmp+48F1A8",
+    "karakterp2": "C",
+    "entityp": "temD16B.tmp+4F44CC",
+    "radar": "60C",
+    "frmbotpointer": "temD16B.tmp+4B6374",
+    "frmbotoffset": "50",
+    "x": "678",
+    "y": "67C",
+    "z": "680",
+    "mbvid": "768",
+    "isdead": "654",
+    "wh": "7C0"
   }
 }
