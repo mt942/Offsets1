@@ -1,4 +1,4 @@
-{
+//{
   "Naira2": {
     "name": "14",
     "karakterp": "clientv8.bin+1A4A330",
@@ -135,4 +135,4 @@
     "isdead": "638",
     "wh": "7C0"
   }
-  }
+ // }
