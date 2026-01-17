@@ -14,6 +14,21 @@
     "isdead": "7CC",
     "wh": "7C0"
   },
+     "Elsmt2": {
+    "name": "14",
+    "karakterp": "metin2client.bin+356808",
+    "karakterp2": "c",
+    "entityp": "metin2client.bin+30A8D4",
+    "radar": "554",
+    "frmbotpointer": "metin2client.bin+35C644",
+    "frmbotoffset": "50",
+    "x": "5C0",
+    "y": "5C4",
+    "z": "5C8",
+    "mbvid": "6AC",
+    "isdead": "59C",
+    "wh": "7C0"
+  },
   "Metin35": {
   "name": "14",
   "karakterp": "metin2client.bin+3DB0C0",
