@@ -119,7 +119,7 @@
     "mbvid": "768",
     "isdead": "654",
     "wh": "7C0"
-    },
+      },
   "Testserver": {
   "name": "14",
   "karakterp": "metin2client.bin+3DB0C0",
@@ -135,4 +135,4 @@
   "isdead": "55C",
   "wh": "7C0"
   }
-}
+  }
