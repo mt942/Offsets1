@@ -120,21 +120,6 @@
     "isdead": "654",
     "wh": "7C0"
     },
-    "Antika2": {
-    "name": "14",
-    "karakterp": "metin2client.exe+415E60",
-    "karakterp2": "10",
-    "entityp": "metin2client.exe+3AE288",
-    "radar": "778",
-    "frmbotpointer": "metin2client.exe+3D0B3C",
-    "frmbotoffset": "84",
-    "x": "7F0",
-    "y": "7F4",
-    "z": "7F8",
-    "mbvid": "8E4",
-    "isdead": "7CC",
-    "wh": "7C0"
-      },
   "Testserver": {
   "name": "14",
   "karakterp": "metin2client.bin+3DB0C0",
