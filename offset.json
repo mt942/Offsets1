@@ -1,1 +1,17 @@
-
+{
+      "Valen2": {
+    "name": "14",
+    "karakterp": "metin2client.bin+506610",
+    "karakterp2": "C",
+    "entityp": "metin2client.bin+498028",
+    "radar": "5F0",
+    "frmbotpointer": "metin2client.bin+4CB5D4",
+    "frmbotoffset": "60",
+    "x": "65C",
+    "y": "660",
+    "z": "664",
+    "mbvid": "74C",
+    "isdead": "638",
+    "wh": "7C0"
+  }
+}
